@@ -130,7 +130,7 @@ Each major section includes links to video tutorials:
 - **Phone**: (609) 335-0123
 - **Email**: support@youneedled.com
 - **Website**: www.youneedled.com
-- **Licensed & Insured**: NJ DCA #34BE00084900
+- **Licensed & Insured**: NJ DCA #34BF00056900
 
 ## 🗺️ Service Area
 
